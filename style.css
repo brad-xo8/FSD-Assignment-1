@@ -1,0 +1,13 @@
+div.header {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    background-color: black;
+    padding: 10px;
+}
+
+#name {
+    font-weight: bold;
+}
+#skill{
+    font-style: italic;
+}
